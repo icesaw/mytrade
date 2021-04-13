@@ -1,4 +1,3 @@
-
 ## ТЗ
 ### 1. Пожелания к прошлой версии
  > нужно обсудить 
@@ -73,13 +72,13 @@
 ##### 18. POC Info :
 ###### -- 18.1. Off
 ###### -- 18.2. Polygon Volume : POC Volume : Price : Date
-##### 19. Polygon Extended Zone On (включение/выключение зон - см рисунок ниже - зоны рисуются от верхней и нижней границы каждого полигона)
+##### 19. Polygon Extended Zone On (включение/выключение зон - см рисунок ниже)
 ##### 20. PEZ Noise Redaction (игнорирование подряд идущих баров пока зона не "закроется" об цену - в основном это будет 1-2 бара)
 ##### 21. Show Broken Zones On (вклюение/выключение "отработавших" зон на графике)
 >Alerts
 ##### 22. Filter Volume Alert On (только один алерт может быть включен в одно и тоже время)
 ##### 23. Polygon Volume Alert On
-##### 24. Alert Sound
+##### 16. Alert Sound
 
 ### Примеры:
 **Naked POC** - это обычный POC + линия которая продолжается до тех пор пока не пересечется с графиком.
@@ -89,4 +88,4 @@
 >нужно обсудить как формулировать пересечение или касание границ или до какого-то % зоны, Чтобы легче было рисовать - есть Region Highlight Y - рисуется от времени до времени 
 
 ![enter image description here](https://raw.githubusercontent.com/icesaw/mytrade/main/8.png)
-
+![enter image description here](https://raw.githubusercontent.com/icesaw/mytrade/main/10.png)
